@@ -16,7 +16,7 @@ Use your plugin manager of choice, e.g.
 { "rafamadriz/friendly-snippets" }
 ```
 
-> [!WARNING]
+> [!INFO]
 > If you're using LuaSnip make sure to use
 > `require("luasnip.loaders.from_vscode").lazy_load()`, and add
 > `friendly-snippets` as a dependency for LuaSnip, otherwise snippets might not
